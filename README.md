@@ -19,5 +19,15 @@ This project aims at building a web App that automatically estimates food attrib
 ![Untitled](https://user-images.githubusercontent.com/106685714/190867686-39ad292d-911e-4cfc-ac25-ab9be21170ab.png)
 
 
+## Work Progress
+
+IDEATION PHASE:
+
+1. Problem Statement : https://github.com/IBM-EPBL/IBM-Project-5100-1658747671/blob/0eca27cb176188db84fbbb0ac8f98885fe70a833/Problem_Statement_Nutrition%20Assistant%20Application.pdf
+2. Literature Survey : https://github.com/IBM-EPBL/IBM-Project-5100-1658747671/blob/0eca27cb176188db84fbbb0ac8f98885fe70a833/Literature_Survey.pdf
+3. Empathy Map : https://github.com/IBM-EPBL/IBM-Project-5100-1658747671/blob/0eca27cb176188db84fbbb0ac8f98885fe70a833/Empathy_map.pdf
+
+
+
 
 
